@@ -12,7 +12,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/lRH-sdavey'}
+- {icon: 'github', link: 'https://www.github.com/RH-sdavey'}
 - {icon: 'facebook', link: 'https://www.facebook.com/seankdavey'}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/seankdavey/'}
 - {icon: 'envelope', link: 'mailto:seankdavey@seznam.cz'}
