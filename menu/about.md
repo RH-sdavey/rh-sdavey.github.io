@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcoem to my place! make yourself at home...
+title: Welcome to my place! take a look around...
 ---
 
 ### A bit about the past
