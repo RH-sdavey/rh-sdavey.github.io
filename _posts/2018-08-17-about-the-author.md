@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Sean Davey"
 categories: journal
 tags: [documentation,aboutme]
-image: 171681.jpg
+image: me.jpg
 ---
 
 Hi there! I'm Sean. 
