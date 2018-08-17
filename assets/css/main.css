@@ -236,18 +236,18 @@ hr {
   display: block;
 }
 
+.social-icons {
+  float: right;
+}
+
 .menu-content {
   float: right;
 }
 
 .menu-content a {
-  color: red;
+  color: #999;
   font-size: 2rem;
   padding-right: 10px;
-}
-
-.social-icons {
-  float: right;
 }
 
 .social-icons a {
