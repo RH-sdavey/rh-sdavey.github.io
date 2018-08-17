@@ -236,17 +236,17 @@ hr {
   display: block;
 }
 
-.social-icons {
+.menu-content {
   float: right;
 }
 
-.menu-content {
+.social-icons {
   float: right;
 }
 
 .menu-content a {
   color: #999;
-  font-size: 2rem;
+  font-size: 0.5rem;
   padding-right: 10px;
 }
 
