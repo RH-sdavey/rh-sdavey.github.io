@@ -7,8 +7,8 @@ tags: [documentation,aboutme]
 image: me.jpg
 ---
 
-Hello, welcome, I'm Sean, nice to meet you! 
-=======
+## I'm Sean, nice to meet you! 
+
 
 ### A bit about the past
 
@@ -84,7 +84,7 @@ alt="youtube of Brno" width="140" height="100" border="6" /></a>
 //todo add future
 
 
-
+___
 
 If you wish to know any more, have a look around, or feel free to get in touch. 
 
