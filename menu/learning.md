@@ -9,15 +9,15 @@ A few of the links I've collected for learning various coding languages and IT r
 ## RHCSA / RHCE
 
 ## BASH
-   * https://www.lynda.com/Linux-tutorials/
-   * https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
+   * [https://www.lynda.com/Linux-tutorials/](https://www.lynda.com/Linux-tutorials/)
+   * [https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/](https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/)
 
 ## DOCKER / CONTAINERS
-   * https://training.play-with-docker.com/
-   * https://training.play-with-docker.com/dev-stage1/
-   * https://github.com/dockersamples/ee-exercises/blob/master/mta-java.md
+   * [https://training.play-with-docker.com/](https://training.play-with-docker.com/)
+   * [https://training.play-with-docker.com/dev-stage1/](https://training.play-with-docker.com/dev-stage1/)
+   * [https://github.com/dockersamples/ee-exercises/blob/master/mta-java.md](https://github.com/dockersamples/ee-exercises/blob/master/mta-java.md)
    * [docker / openshift / kubernetes demo](https://www.youtube.com/watch?v=AoDhQt8PtUQ)
-   * https://developers.redhat.com/products/cdk/hello-world/#fndtn-rhel
+   * [https://developers.redhat.com/products/cdk/hello-world/#fndtn-rhel](https://developers.redhat.com/products/cdk/hello-world/#fndtn-rhel)
    
 ## OPENSHIFT / KUBERNETES
    * https://training.play-with-kubernetes.com/kubernetes-workshop/
