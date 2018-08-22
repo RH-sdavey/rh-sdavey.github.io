@@ -11,6 +11,9 @@ s/^[^:]\+:/word:/   // subsitute from beginning of line all chars that are not a
 
 ##### or using sed
 
+// TODO ADD NEWLINES HERE ( GOOGLE IT ) 
+
+
 
 sed -e 's/^[^:]\+:/word:/'   \<filename here\>
   
