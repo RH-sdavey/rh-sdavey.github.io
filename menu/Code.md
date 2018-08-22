@@ -1,4 +1,7 @@
+---
+tags: [vim,sed]
 
+---
 #### Change the first word of every line to another word ( in this case up until the first : ) 
 
 
