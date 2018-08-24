@@ -1,7 +1,7 @@
 # SEAN DAVEY
 
 ____
-____
+
 
 Github repo for hosting [https://rh-sdavey.github.io](https://rh-sdavey.github.io)
 
