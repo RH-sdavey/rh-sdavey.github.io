@@ -7,7 +7,7 @@ tags: [vim, sed, snippet]
 image: vim.png
 ---
 
-Today I needed to learn how to change the first work of every line to another word, actually I cant remember why I needed to do that, but heres the snippet anyway, 
+Today I needed to learn how to change the first word of every line to another word, actually I cant remember why I needed to do that, but heres the snippet anyway, 
 
 - [shift] + v //select code block to change
 - [shift] + : //execute control over this block 
