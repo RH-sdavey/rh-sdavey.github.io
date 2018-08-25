@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first Vertx app"
-author: "Sean Davey"
+author: "Endless"
 categories: journal
 tags: [java,vertx]
 image: vertx.png
