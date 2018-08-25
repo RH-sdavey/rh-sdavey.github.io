@@ -10,7 +10,7 @@ image: vertx.png
 
 Today I create my first vertx application,[1] 
 
-###### "Eclipse Vert.x is a tool-kit for building reactive applications on the JVM."
+#### "Eclipse Vert.x is a tool-kit for building reactive applications on the JVM."
 
 In English, and for my purpose this means that its a toolkit that enabled me to create an http server, hosting a very simple website ( which will be improved very soon  ) and accept API requests to that server, so I can start parsing information from there once more info has been added ( data can be added either by cUrl requests or through the webui ). 
 
