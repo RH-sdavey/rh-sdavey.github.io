@@ -16,4 +16,7 @@ Today I needed to learn how to change the first work of every line to another wo
 or using sed, without needing to open the file
 
 - sed -e ‘s/^[^:]+:/word:/’ <filename here>
+  
+  This and many more really helpful tricks for vim, can be found here,
+  https://www.cs.oberlin.edu/~kuperman/help/vim/home.html
 
