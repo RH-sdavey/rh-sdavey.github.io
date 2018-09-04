@@ -20,8 +20,8 @@ A few of the links I've collected for learning various coding languages and IT r
    * [https://developers.redhat.com/products/cdk/hello-world/#fndtn-rhel](https://developers.redhat.com/products/cdk/hello-world/#fndtn-rhel)
    
 ## OPENSHIFT / KUBERNETES
-   * https://training.play-with-kubernetes.com/kubernetes-workshop/
-   * https://www.okd.io/
+   * [https://training.play-with-kubernetes.com/kubernetes-workshop/]()
+   * [https://www.okd.io/]()
    * [Container Native Applications - Troubleshooting Middleware Applications On OpenShift](https://learning.redhat.com/course/view.php?id=1243) <--- rh internal
    * [OpenShift Enterprise Administration Course (DO280)](https://learning.redhat.com/course/view.php?id=423) <-- rh internal
    * [https://blog.openshift.com/tag/tips/]
@@ -56,6 +56,9 @@ A few of the links I've collected for learning various coding languages and IT r
    * [http://docs.python-requests.org/en/master/]
 
 ## JAVA 
+   * [http://tutorials.jenkov.com/]
+   * [https://coderanch.com/t/690978/engineering/Assert-correctly]
+   
 
 ## TESTING
    * [http://blog.codepipes.com/testing/software-testing-antipatterns.html]
