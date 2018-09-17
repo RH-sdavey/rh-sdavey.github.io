@@ -1,4 +1,11 @@
-insert metadata here
+---
+layout: post
+title: "Too long didnt read!"
+author: "Endless"
+categories: journal
+tags: [linux]
+image: tldr1.png
+---
 
 Ever wondered what the flags were for that command you used last year sometime at 3am when you were in the middle of patching
 some server and needed to inversely grep some text file, save the results in a root-owned text file, before zipping it with maximum
