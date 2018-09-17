@@ -12,12 +12,12 @@ line, and lets face it, when you find something this good, you have to share it 
 Its one of the first things I install when working with a new linux system, vm or laptop. Absolutely changing the "history"
 or "ctrl + r" usage of the old and ancient. 
 
-If your ever searching through your history for the obscure command you used 3 months ago, while deep in the middle of coding
+If youre ever searching through your history for the obscure command you used 3 months ago, while deep in the middle of coding
 nirvana, (read - desperately scanning stackoverflow ) or that you "won't need it enough to save as an alias", but in reality use that command a few times per week... then have a look here...
 
 https://github.com/dvorka/hstr
 
-installation is incredibly simple, with all methods to install listen in the README of the github page, so... what does it do?
+installation is incredibly simple, with all methods to install listed in the README of the github page, so... what does it do?
 
 If youve ever searched through your history with ..
 
@@ -25,7 +25,7 @@ If youve ever searched through your history with ..
 
 with 'histr' you can now type `hstr` or `<Ctrl+r>` once, type some part of the command you are searching for... and this is the result...
 
-![histr](histr.png)
+![histr](../assets/img/histr.png)
 
 the results list is reponsive in real time, can be edited and is listed in ascending order, meaning that the commands you use
 the most that match your search will be at the top, you can just scroll down the list, press `Enter` or `right key` and it will be on your command line instantly. This WILL speed up your daily work so much, believe me!
