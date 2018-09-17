@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "Online CV"
-author: "Sean Davey"
+title: "The music I like... good luck!"
+author: "Endless"
 categories: journal
-tags: [cv,aboutme]
+tags: [music,aboutme]
 image: me.jpg
 ---
-Place for online CV
+
+Well, I thought long and hard about what to put on this last page of my blog, and I came to the conclusion... I must put 
+all the music I discover here, just to share it, with somebody, anybody.
+The only thing I wish to share here, for you to learn about me, is the breadth, the depth and the range of music I enjoy.\I have no limits, I have no "off-limits", bring it on!
+
+
 
 
 
