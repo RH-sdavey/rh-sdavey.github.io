@@ -26,7 +26,7 @@ If youve ever searched through your history with ..
 
 with 'histr' you can now type `hstr` or `<Ctrl+r>` once, type some part of the command you are searching for... and this is the result...
 
-![histr](/assets/img/histr.png)
+![histr](histr.png)
 
 the results list is reponsive in real time, can be edited and is listed in ascending order, meaning that the commands you use
 the most that match your search will be at the top, you can just scroll down the list, press `Enter` or `right key` and it will be
