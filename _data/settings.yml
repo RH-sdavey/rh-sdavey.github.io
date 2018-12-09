@@ -10,6 +10,7 @@ menu:
 - {name: 'Writing', path: 'menu', url: 'writing.html'}
 - {name: 'Learning', path: 'menu', url: 'learning.html'}
 - {name: 'Laptop Rescue', path: 'menu', url: 'LaptopRescue.html'}
+- {name: English Lessons', path: 'menu', url: 'EnglishLessons.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
