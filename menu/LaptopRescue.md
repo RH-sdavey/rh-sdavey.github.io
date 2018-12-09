@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Do you want to rescue your old slow Windows laptop, move to Linux!"
 author: "Endless"
 categories: journal
