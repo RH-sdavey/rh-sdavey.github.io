@@ -6,4 +6,7 @@ categories: journal
 tags: [English, Lessons, Learn English, Brno, Native English, UK, learn english, Brno English students]
 image: englessons.png
 ---
-Work in progress
+
+I no longer offer Enlgish lessons. Sorry, no time!
+
+swhy.netlify.com
